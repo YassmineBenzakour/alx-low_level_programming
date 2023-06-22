@@ -27,6 +27,6 @@ n = n / i;
 }
 if (n > 2)
 max = n;
-printf("%IId"\n", max);
+printf("%ld"\n", max);
 return (0);
 }
