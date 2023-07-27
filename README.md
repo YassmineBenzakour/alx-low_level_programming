@@ -1,3 +1,4 @@
-Project
-0x08. C - Recursion
+Project:
+0x12. C - Singly linked lists
+
 
